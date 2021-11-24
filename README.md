@@ -1,5 +1,4 @@
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=150&section=header&text=Hyunsoo%20Shin&fontSize=90)<br>
 <h1>Tech</h1>
 <div id="tech">
   <div id="back-end">
